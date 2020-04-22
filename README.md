@@ -3,4 +3,4 @@ CommentToMail插件启用后在 Typecho 后台左上角控制台处选择评论�
 
 如图片失效请自行更换链接
 
-![image](https://github.com/MisakaTAT/Typecho-CommentToMail-Template/blob/master/Preview/Preview.png)
+![image](https://github.com/MisakaTAT/Typecho-CommentToMail-Template/blob/master/preview.png)
